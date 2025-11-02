@@ -1,1 +1,1 @@
-- hi im a stinky nerd
+- Silver is my favorite material.
