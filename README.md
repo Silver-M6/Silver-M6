@@ -1,28 +1,29 @@
 - Silver is my favorite material.
 - ----------------------------------------------
-My Neofetch:
-
 ```
-                   -`                    k@net 
+                   -`                    silver@m6
                   .o+`                   ----- 
                  `ooo/                   OS: Arch Linux x86_64 
                 `+oooo:                  Host: HP ProDesk 600 G1 SFF 
-               `+oooooo:                 Kernel: 6.17.4-arch2-1 
-               -+oooooo+:                Uptime: 6 hours, 17 mins 
-             `/:-:++oooo+:               Packages: 895 (pacman), 6 (flatpak) 
-            `/++++/+++++++:              Shell: bash 5.3.3 
-           `/++++++++++++++:             Resolution: 1440x900 
-          `/+++ooooooooooooo/`           DE: Xfce 4.20 
-         ./ooosssso++osssssso+`          WM: Xfwm4 
-        .oossssso-````/ossssss+`         WM Theme: Windows XP style (Blue) 
-       -osssssso.      :ssssssso.        Theme: Windows XP style (Blue) [GTK2], 
-      :osssssss/        osssso+++.       Icons: luna [GTK2], nuoveXT2 [GTK3] 
-     /ossssssss/        +ssssooo/-       Terminal: xfce4-terminal 
-   `/ossssso+/:-        -:/+osssso+-     Terminal Font: Monospace 12 
-  `+sso+:-`                 `.-/+oso:    CPU: Intel i3-4130 (4) @ 3.400GHz 
- `++:.                           `-/+/   GPU: Intel 4th Generation Core Process 
- .`                                 `/   Memory: 5986MiB / 6711MiB 
+               `+oooooo:                 DE: Xfce 
+               -+oooooo+:                CPU: Intel i3-4130 (4) @ 3.400GHz
+             `/:-:++oooo+:               iGPU: Intel 4th Generation Core Processor Family
+            `/++++/+++++++:              Packages: 895 (pacman), 6 (flatpak)
+           `/++++++++++++++:             
+          `/+++ooooooooooooo/`           
+         ./ooosssso++osssssso+`          
+        .oossssso-````/ossssss+`         
+       -osssssso.      :ssssssso.        
+      :osssssss/        osssso+++.       
+     /ossssssss/        +ssssooo/-       
+   `/ossssso+/:-        -:/+osssso+-    
+  `+sso+:-`                 `.-/+oso:    
+ `++:.                           `-/+/   
+ .`                                 `/ 
 
                                                                  
                                                                  
 ```
+
+[![Silver M6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silver-M6)](https://github.com/anuraghazra/github-readme-stats)
+
